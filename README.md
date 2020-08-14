@@ -1,6 +1,5 @@
 # hovercraft
 
-<br/>
 ### Summary <br/>
   This repository includes the Arduino C++ (.ino) file used to drive an autonomous hovercraft. The hovercraft consisted of two fans, three ultra-sonic sensors, and a servo. To get through an obstacle course, the arduino-based MCU used this code to decide where to maneuver based on ultra-sonic sensors. Instad of hard-coding the course, our team decided on a dynamic algorithm that would continuously evaluate distances and decide where to go.
   
